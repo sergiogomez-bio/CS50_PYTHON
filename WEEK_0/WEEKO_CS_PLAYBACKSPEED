@@ -1,0 +1,3 @@
+message = input("Qué quieres escribir")
+message=message.replace(" ", "...")
+print(message, sep="...")
